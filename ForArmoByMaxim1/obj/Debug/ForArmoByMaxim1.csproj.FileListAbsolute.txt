@@ -1,0 +1,9 @@
+C:\Users\evlam\OneDrive\Документы\ARMOWork\v1\ForArmoByMaxim1\obj\Debug\ForArmoByMaxim1.csprojAssemblyReference.cache
+C:\Users\evlam\OneDrive\Документы\ARMOWork\v1\ForArmoByMaxim1\obj\Debug\ForArmoByMaxim1.Form1.resources
+C:\Users\evlam\OneDrive\Документы\ARMOWork\v1\ForArmoByMaxim1\obj\Debug\ForArmoByMaxim1.Properties.Resources.resources
+C:\Users\evlam\OneDrive\Документы\ARMOWork\v1\ForArmoByMaxim1\obj\Debug\ForArmoByMaxim1.csproj.GenerateResource.cache
+C:\Users\evlam\OneDrive\Документы\ARMOWork\v1\ForArmoByMaxim1\bin\Debug\ForArmoByMaxim1.exe.config
+C:\Users\evlam\OneDrive\Документы\ARMOWork\v1\ForArmoByMaxim1\bin\Debug\ForArmoByMaxim1.exe
+C:\Users\evlam\OneDrive\Документы\ARMOWork\v1\ForArmoByMaxim1\bin\Debug\ForArmoByMaxim1.pdb
+C:\Users\evlam\OneDrive\Документы\ARMOWork\v1\ForArmoByMaxim1\obj\Debug\ForArmoByMaxim1.exe
+C:\Users\evlam\OneDrive\Документы\ARMOWork\v1\ForArmoByMaxim1\obj\Debug\ForArmoByMaxim1.pdb
